@@ -1,0 +1,1 @@
+mvn clean installmvn spring-boot:run
