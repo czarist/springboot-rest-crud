@@ -33,7 +33,7 @@ Replace `root` and `1234` with your database credentials.
 ## Installation and Execution
 
 ```bash
-git clone https://github.com/your-username/task-manager-api.git
+git clone this repository
 cd task-manager-api
 mvn clean install
 mvn spring-boot:run
