@@ -187,5 +187,4 @@ The API will be available at `http://localhost:8080/`.
 }
 ```
 
-This README provides complete documentation of the API, including requirements, database configuration, installation, and all endpoints needed to manage tasks and categories.
 
